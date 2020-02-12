@@ -1,0 +1,49 @@
+body{
+	background-image: url("books.jpg");
+	background: 0.5;
+	background-attachment: : fixed;
+	background-size: 100%;	
+}
+
+/* resetting bajground image*/
+#block1{
+	background-color: #e1d7c8;
+	color: black;
+	margin: 180px 500px;
+	border: 6px solid #9c9c8d;
+	border-radius: 30px;
+	box-shadow: 7px 7px 7px black; 
+	height:250px;
+	padding:50px 150px;
+	
+	font-size: x-large;
+	font-weight: 700;
+	font-family: system-ui;
+	font-variant: normal;
+
+	
+	text-align: center;
+	padding-top: 100px;
+}
+input[type = text]{
+	border: 1px solid grey;
+	border-radius: 4px;
+	padding: 5px 12px;
+	margin: 10px 8px;
+}
+
+input [type = submit]{
+
+	padding: 5px 5px;
+	margin-top: 10px 0;
+}
+input[type = password]{
+	border: 1px solid grey;
+	border-radius: 4px;
+	padding: 5px 12px;
+	margin-top: 10px 8;
+}
+a{
+	font-size: medium;
+
+}

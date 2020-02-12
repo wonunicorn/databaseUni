@@ -1,0 +1,61 @@
+body{
+	background-image: url("books.jpg");
+	background: 0.5;
+	background-attachment:fixed;
+	background-size: 100%;
+}
+#new{
+    margin: 10px 300px;
+    height: 150%;
+	background-color: #e1d7c8;
+	color: black;
+    width: 60%;
+    padding-top: 20px;
+    padding-left: 120px;
+    padding-bottom: 20px ;
+	box-sizing: border-box;
+	font-family: Arial;
+	font-size: 22px;
+	border-radius: 6px;
+	border: 3px solid grey;
+}
+
+input[type=submit]{
+    
+	background-color: white;
+	color: black;
+	border: 2px solid grey;
+	border-radius: 5px; 
+	height:30px;
+	padding: 5px 5px;
+    width: 80px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+input[type=text]{
+    background-color: white;
+	color: black;
+	border: 2px solid grey;
+	border-radius: 5px; 
+	height:15px;
+	padding: 5px 5px;
+    width: 170px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+#button{
+	margin: 10px 480px;
+	background-color: #e1d7c8;
+	color: black;
+	border: 2px solid grey;
+	border-radius: 5px; 
+	height:20px;
+	padding: 5px 5px;
+	width: 100px;
+	color: black;
+	font-family: sans-serif;
+	text-align: center;
+
+}
